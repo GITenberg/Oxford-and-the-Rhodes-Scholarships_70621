@@ -1,0 +1,39 @@
+_repo: Oxford-and-the-Rhodes-Scholarships_70621
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hornbeck, Stanley Kuhl
+    aliases:
+    - Hornbeck, S. K.
+    - Hornbeck, Stanley K. (Stanley Kuhl)
+    birthdate: 1883
+    deathdate: 1966
+    gutenberg_agent_id: '55829'
+    url: http://www.gutenberg.org/2009/agents/55829
+    wikipedia: https://en.wikipedia.org/wiki/Stanley_Hornbeck
+  - agent_name: Scholz, R. F. (Richard Frederick)
+    alias: Scholz, Richard Frederick
+    gutenberg_agent_id: '55828'
+    url: http://www.gutenberg.org/2009/agents/55828
+description: ''
+gutenberg_issued: '2023-04-22'
+identifiers:
+  gutenberg: '70621'
+  lccn: 07026974
+language: en
+pgterms:marc904: https://archive.org/details/oxfordrhodesscho00schorich
+pgterms:marc905: 20210803135239scholz
+pgterms:marc906: '1907'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bHenry Frowde, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rhodes scholarships'
+- !lcc 'LF'
+- GITenberg
+title: Oxford and the Rhodes Scholarships
+url: http://www.gutenberg.org/ebooks/70621
